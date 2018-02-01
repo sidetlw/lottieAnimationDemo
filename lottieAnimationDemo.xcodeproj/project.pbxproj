@@ -13,6 +13,18 @@
 		1D34A8641F419AFF0011D13D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D34A8621F419AFF0011D13D /* Main.storyboard */; };
 		1D34A8661F419AFF0011D13D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D34A8651F419AFF0011D13D /* Assets.xcassets */; };
 		1D34A8691F419AFF0011D13D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D34A8671F419AFF0011D13D /* LaunchScreen.storyboard */; };
+		1D34A8731F41A2C90011D13D /* J.json in Resources */ = {isa = PBXBuildFile; fileRef = 1D34A8721F41A2C90011D13D /* J.json */; };
+		1D34A8761F41A5E10011D13D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D34A8751F41A5E10011D13D /* AVFoundation.framework */; };
+		1D34A8781F41A5E70011D13D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D34A8771F41A5E70011D13D /* CoreGraphics.framework */; };
+		1D34A87A1F41A5EF0011D13D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D34A8791F41A5EF0011D13D /* UIKit.framework */; };
+		1D34A87C1F41A5F50011D13D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D34A87B1F41A5F50011D13D /* Foundation.framework */; };
+		1D34A87E1F41A72B0011D13D /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 1D34A87D1F41A72B0011D13D /* Podfile */; };
+		1DED93BA1F4424AB00D6ECDB /* SceneKit Particle System.scnp in Resources */ = {isa = PBXBuildFile; fileRef = 1DED93B81F4424AB00D6ECDB /* SceneKit Particle System.scnp */; };
+		1DED93BB1F4424AB00D6ECDB /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DED93B91F4424AB00D6ECDB /* spark.png */; };
+		1DED93BE1F4427BB00D6ECDB /* Guide_1 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DED93BD1F4427BB00D6ECDB /* Guide_1 2.png */; };
+		1DED93C01F4437E400D6ECDB /* SceneKit Scene.scn in Resources */ = {isa = PBXBuildFile; fileRef = 1DED93BF1F4437E400D6ECDB /* SceneKit Scene.scn */; };
+		2BBEA5F999444D0E2555A26C /* Pods_lottieAnimationDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D664791164A529A5E25E18ED /* Pods_lottieAnimationDemo.framework */; };
+		9623014620235BF8007C914F /* scanning_animation.json in Resources */ = {isa = PBXBuildFile; fileRef = 9623014520235BF8007C914F /* scanning_animation.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,20 @@
 		1D34A8651F419AFF0011D13D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D34A8681F419AFF0011D13D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D34A86A1F419AFF0011D13D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D34A8721F41A2C90011D13D /* J.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = J.json; sourceTree = "<group>"; };
+		1D34A8751F41A5E10011D13D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		1D34A8771F41A5E70011D13D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1D34A8791F41A5EF0011D13D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1D34A87B1F41A5F50011D13D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D34A87D1F41A72B0011D13D /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1DED93B81F4424AB00D6ECDB /* SceneKit Particle System.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = "SceneKit Particle System.scnp"; sourceTree = "<group>"; };
+		1DED93B91F4424AB00D6ECDB /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		1DED93BD1F4427BB00D6ECDB /* Guide_1 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Guide_1 2.png"; sourceTree = "<group>"; };
+		1DED93BF1F4437E400D6ECDB /* SceneKit Scene.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "SceneKit Scene.scn"; sourceTree = "<group>"; };
+		47FC58386A870966DBAAB50B /* Pods-lottieAnimationDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-lottieAnimationDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-lottieAnimationDemo/Pods-lottieAnimationDemo.release.xcconfig"; sourceTree = "<group>"; };
+		9623014520235BF8007C914F /* scanning_animation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = scanning_animation.json; sourceTree = "<group>"; };
+		B301CCA0D89E1061D8775AAC /* Pods-lottieAnimationDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-lottieAnimationDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-lottieAnimationDemo/Pods-lottieAnimationDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		D664791164A529A5E25E18ED /* Pods_lottieAnimationDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_lottieAnimationDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +59,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D34A87C1F41A5F50011D13D /* Foundation.framework in Frameworks */,
+				1D34A87A1F41A5EF0011D13D /* UIKit.framework in Frameworks */,
+				1D34A8781F41A5E70011D13D /* CoreGraphics.framework in Frameworks */,
+				1D34A8761F41A5E10011D13D /* AVFoundation.framework in Frameworks */,
+				2BBEA5F999444D0E2555A26C /* Pods_lottieAnimationDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +75,8 @@
 			children = (
 				1D34A8581F419AFF0011D13D /* lottieAnimationDemo */,
 				1D34A8571F419AFF0011D13D /* Products */,
+				1D34A8741F41A5E00011D13D /* Frameworks */,
+				F9EA1F66673E854CB0085CE2 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -65,7 +98,10 @@
 				1D34A8621F419AFF0011D13D /* Main.storyboard */,
 				1D34A8651F419AFF0011D13D /* Assets.xcassets */,
 				1D34A8671F419AFF0011D13D /* LaunchScreen.storyboard */,
+				9623014520235BF8007C914F /* scanning_animation.json */,
+				1D34A8721F41A2C90011D13D /* J.json */,
 				1D34A86A1F419AFF0011D13D /* Info.plist */,
+				1DED93BD1F4427BB00D6ECDB /* Guide_1 2.png */,
 				1D34A8591F419AFF0011D13D /* Supporting Files */,
 			);
 			path = lottieAnimationDemo;
@@ -74,9 +110,42 @@
 		1D34A8591F419AFF0011D13D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1D34A8871F441FF00011D13D /* fire */,
 				1D34A85A1F419AFF0011D13D /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1D34A8741F41A5E00011D13D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1D34A87D1F41A72B0011D13D /* Podfile */,
+				1D34A87B1F41A5F50011D13D /* Foundation.framework */,
+				1D34A8791F41A5EF0011D13D /* UIKit.framework */,
+				1D34A8771F41A5E70011D13D /* CoreGraphics.framework */,
+				1D34A8751F41A5E10011D13D /* AVFoundation.framework */,
+				D664791164A529A5E25E18ED /* Pods_lottieAnimationDemo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1D34A8871F441FF00011D13D /* fire */ = {
+			isa = PBXGroup;
+			children = (
+				1DED93B81F4424AB00D6ECDB /* SceneKit Particle System.scnp */,
+				1DED93B91F4424AB00D6ECDB /* spark.png */,
+				1DED93BF1F4437E400D6ECDB /* SceneKit Scene.scn */,
+			);
+			name = fire;
+			sourceTree = "<group>";
+		};
+		F9EA1F66673E854CB0085CE2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B301CCA0D89E1061D8775AAC /* Pods-lottieAnimationDemo.debug.xcconfig */,
+				47FC58386A870966DBAAB50B /* Pods-lottieAnimationDemo.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -86,9 +155,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1D34A86D1F419AFF0011D13D /* Build configuration list for PBXNativeTarget "lottieAnimationDemo" */;
 			buildPhases = (
+				7934A1CAA937411BCD066B64 /* [CP] Check Pods Manifest.lock */,
 				1D34A8521F419AFF0011D13D /* Sources */,
 				1D34A8531F419AFF0011D13D /* Frameworks */,
 				1D34A8541F419AFF0011D13D /* Resources */,
+				BFC23BA28DCDD0CEEDA4BB60 /* [CP] Embed Pods Frameworks */,
+				E5722DC78B6A874F6882C90E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -138,13 +210,68 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D34A87E1F41A72B0011D13D /* Podfile in Resources */,
+				9623014620235BF8007C914F /* scanning_animation.json in Resources */,
+				1DED93BA1F4424AB00D6ECDB /* SceneKit Particle System.scnp in Resources */,
+				1DED93BE1F4427BB00D6ECDB /* Guide_1 2.png in Resources */,
+				1D34A8731F41A2C90011D13D /* J.json in Resources */,
 				1D34A8691F419AFF0011D13D /* LaunchScreen.storyboard in Resources */,
 				1D34A8661F419AFF0011D13D /* Assets.xcassets in Resources */,
+				1DED93C01F4437E400D6ECDB /* SceneKit Scene.scn in Resources */,
+				1DED93BB1F4424AB00D6ECDB /* spark.png in Resources */,
 				1D34A8641F419AFF0011D13D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7934A1CAA937411BCD066B64 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		BFC23BA28DCDD0CEEDA4BB60 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-lottieAnimationDemo/Pods-lottieAnimationDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E5722DC78B6A874F6882C90E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-lottieAnimationDemo/Pods-lottieAnimationDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		1D34A8521F419AFF0011D13D /* Sources */ = {
@@ -271,25 +398,39 @@
 		};
 		1D34A86E1F419AFF0011D13D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B301CCA0D89E1061D8775AAC /* Pods-lottieAnimationDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 23APQPWD85;
+				ENABLE_BITCODE = YES;
+				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = lottieAnimationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = sidetlw.lottieAnimationDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.tencent.mia.homevoiceassistant.mia-dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				USER_HEADER_SEARCH_PATHS = "";
+				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
 			name = Debug;
 		};
 		1D34A86F1F419AFF0011D13D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 47FC58386A870966DBAAB50B /* Pods-lottieAnimationDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 23APQPWD85;
+				ENABLE_BITCODE = YES;
+				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = lottieAnimationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = sidetlw.lottieAnimationDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.tencent.mia.homevoiceassistant.mia-dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				USER_HEADER_SEARCH_PATHS = "";
+				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
 			name = Release;
 		};
@@ -312,6 +453,7 @@
 				1D34A86F1F419AFF0011D13D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
