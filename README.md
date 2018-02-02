@@ -3,4 +3,4 @@
 
 
 
-![](https://github.com/sidetlw/lottieAnimationDemo/blob/master/lottieAnimationDemo/animate.gif)
+![](https://github.com/sidetlw/lottieAnimationDemo/blob/master/lottieAnimationDemo/animate2.gif)
