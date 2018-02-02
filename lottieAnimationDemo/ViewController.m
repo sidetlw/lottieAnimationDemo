@@ -24,7 +24,6 @@
 -(void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
-//    [self _loadAnimationNamed:@"data-test6.json"];
     [self _loadAnimationNamed:@"BG-data.json"];
 }
 
