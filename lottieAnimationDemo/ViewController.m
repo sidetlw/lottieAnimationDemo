@@ -25,7 +25,7 @@
 {
     [super viewWillAppear:animated];
 //    [self _loadAnimationNamed:@"data-test6.json"];
-    [self _loadAnimationNamed:@"scanning_animation.json"];
+    [self _loadAnimationNamed:@"BG-data.json"];
 }
 
 - (void)viewWillLayoutSubviews {
